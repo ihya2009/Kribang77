@@ -1,101 +1,101 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
 https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
-#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="Sukan RTM" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="Sukan RTM" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="Okey.my" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="Okey.my" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
 https://rthktv32-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch32)/index.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
 https://cdnw.telewebion.com/tv3/live/playlist.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn-bsht1c84.telewebion.com/tv3/live/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers 
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtyuwqa/master.m3u8
 
-#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26ô Qualifiers
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26‚Ñ¢ Qualifiers
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
@@ -452,7 +452,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/32
 #KODIPROP:inputstream.adaptive.license_key=f81af7922a8d461aa81da4b225f8f883:d0f27c123c5f1331429d08638fa3727e
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
 
-#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/zNhs5Nj/beinspes.png" group-title="CHANNEL | SPORTS 2",  BEIN SPORTS En EspaÒol
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/zNhs5Nj/beinspes.png" group-title="CHANNEL | SPORTS 2",  BEIN SPORTS En Espa√±ol
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -463,13 +463,13 @@ https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/11
 #EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co/v1bpVxN/beinxtraen.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS XTRA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/44jf5LR/beinxtraes.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS XTRA En EspaÒol
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/44jf5LR/beinxtraes.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS XTRA En Espa√±ol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/44jf5LR/beinxtraes.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS XTRA En EspaÒol
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/44jf5LR/beinxtraes.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS XTRA En Espa√±ol
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/44jf5LR/beinxtraes.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS XTRA En EspaÒol
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/44jf5LR/beinxtraes.png" group-title="CHANNEL | SPORTS 2" , BEIN SPORTS XTRA En Espa√±ol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 
@@ -975,7 +975,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="Fox Deportes en EspaÒol (U.S.)" tvg-logo="https://i.ibb.co/58HXy9T/foxdeportes.png" group-title="CHANNEL | SPORTS 2",  FOX DEPORTES
+#EXTINF:-1 tvg-id="Fox Deportes en Espa√±ol (U.S.)" tvg-logo="https://i.ibb.co/58HXy9T/foxdeportes.png" group-title="CHANNEL | SPORTS 2",  FOX DEPORTES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1108,7 +1108,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd
 https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.ibb.co/Qn8zjhn/jojsport.png" group-title="CHANNEL | SPORTS 2", JOJ äport 
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.ibb.co/Qn8zjhn/jojsport.png" group-title="CHANNEL | SPORTS 2", JOJ ≈†port 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1647,7 +1647,7 @@ https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_ce
 #KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
 https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
 
-#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/vBJp5Jp/rtvsport.png" group-title="CHANNEL | SPORTS 2", RTVS äPORT 
+#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/vBJp5Jp/rtvsport.png" group-title="CHANNEL | SPORTS 2", RTVS ≈†PORT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1815,7 +1815,7 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta32_HD_HVC/GO3_LIVE_DASH_HVC/Setanta32_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/z5gssKy/sevillatv.png" group-title="CHANNEL | SPORTS 2" , Sevilla FC TelevisiÛn 
+#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/z5gssKy/sevillatv.png" group-title="CHANNEL | SPORTS 2" , Sevilla FC Televisi√≥n 
 https://streamer.zapitv.com/sevillafc/index.mpd
 
 
@@ -2071,7 +2071,7 @@ https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_sport2/play
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="Sportdigital Fuﬂball.de" tvg-name="" tvg-logo="https://i.ibb.co/ZM5C37H/sportdigital.png" group-title="CHANNEL | SPORTS 2", SPORTDIGITAL FUSSBALL 
+#EXTINF:-1 tvg-id="Sportdigital Fu√üball.de" tvg-name="" tvg-logo="https://i.ibb.co/ZM5C37H/sportdigital.png" group-title="CHANNEL | SPORTS 2", SPORTDIGITAL FUSSBALL 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3683,7 +3683,7 @@ https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mp
 #EXTINF:0 tvg-id="CinemaWorld.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2eI6X436DSEG973Jhiy2-li9mHqrI8Tvyew&usqp=CAU" group-title="CHANNEL | MOVIES",Star Chinese Movies
 #http://metatvpro.com:25461/J7267/8992/12287
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190420_8006bh9kk8c98h0527ijb063fhl38_240x120.jpg" group-title="Movies",Á∫¨Êù•ËÇ≤‰πê MOVIE
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190420_8006bh9kk8c98h0527ijb063fhl38_240x120.jpg" group-title="Movies",√ß¬∫¬¨√¶¬ù¬•√®‚Äö¬≤√§¬π¬ê MOVIE
 ##https://ktpremium.com:443/mkt1420/568765164/877044
 
 
@@ -4601,9 +4601,9 @@ https://www.googleapis.com/drive/v3/files/1qk30HnUkOxgttQ4tE6_twVAN4rpxOk9y?alt=
 https://www.googleapis.com/drive/v3/files/1ELM6nn6anPLf4gFh2SMIKZFV987yncTu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD INDO",Sri Asih
 https://www.googleapis.com/drive/v3/files/1rsWHwwy6e4HqbCnt59QxJE1_XLNqpVhf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD INDO",Srimulat: Hil Yang Mustahal ‚Äì Babak Pertama
+#EXTINF:-1 group-title="VOD INDO",Srimulat: Hil Yang Mustahal √¢‚Ç¨‚Äú Babak Pertama
 https://www.googleapis.com/drive/v3/files/1Bdxa62HahGqK3HTbc8LKAHUwdLx5Iz6c?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD INDO",Srimulat: Hil Yang Mustahal ‚Äì Babak Pertama
+#EXTINF:-1 group-title="VOD INDO",Srimulat: Hil Yang Mustahal √¢‚Ç¨‚Äú Babak Pertama
 https://www.googleapis.com/drive/v3/files/1zIKNcSmgInPZWotWSkP0V3NqtGNmOg8F?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD INDO",Suka Duka Uni Unaa
 https://www.googleapis.com/drive/v3/files/1moZC9_oAXFPGwy7Cv8eZh1NbBV9VOhDl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -5200,11 +5200,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", ??∑?????NECO / Neco 
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", ??¬∑?????NECO / Neco 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="thecinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ?∑??? / The Cinema 
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="thecinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ?¬∑??? / The Cinema 
 #https://code.vthanhtivi.pw/getlink/jptvvn/141/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5213,7 +5213,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", ???∑A / Sky A  
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", ???¬∑A / Sky A  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
